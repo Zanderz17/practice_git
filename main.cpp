@@ -4,7 +4,7 @@ using namespace std;
 
 
 int main(){
-    cout<<"Hola mundo! xd"<<endl;
+    cout<<"Hola mundo! gaaaa"<<endl;
     return 0;
 }
 
